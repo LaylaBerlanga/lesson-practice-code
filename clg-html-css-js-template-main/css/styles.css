@@ -1,0 +1,19 @@
+body {background-color:#E4B7E5}
+H1{
+    color:#B288C0; font-size: 50px;font-family: 'Bacasime Antique', serif; }
+
+h2{ color: #63458A;}
+
+h3{ color: #7E5A9B; 
+    text-decoration: underline;}
+
+p { color: black;
+font-weight: bold;
+font-style: oblique; font-family: 'Bacasime Antique', serif;
+}
+
+a:hover {color:hotpink}
+
+a {text-decoration: none; font-style:normal;}
+
+a:active {text-decoration: underline;}
